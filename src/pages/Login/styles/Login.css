@@ -1,0 +1,15 @@
+
+.item{
+  margin-bottom: 2rem;
+}
+.list{
+  background-color: inherit;
+}
+.contentdiv{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  height: 100%;
+}
